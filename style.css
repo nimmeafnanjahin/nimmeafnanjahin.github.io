@@ -1,0 +1,35 @@
+#intro, #navbar {
+    margin-top: 2%;
+}
+
+#nav-tab{
+    margin-top: 2%;
+}
+#nav-tab a{
+    color: black;
+}
+
+#address{
+    width: 5%; 
+    margin-right: 1%;
+}
+
+#mobile{
+    width: 5%; 
+    margin-right: 1%; 
+    margin-top: 1%;
+}
+
+
+#gmail img , #linkedin img{
+    
+    width: 5%;
+    margin-right: 1%; 
+    margin-top: 1%;
+}
+
+#cv{
+    color: black;
+}
+
+ 
